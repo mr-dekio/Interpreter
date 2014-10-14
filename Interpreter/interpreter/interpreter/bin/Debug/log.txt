@@ -1,0 +1,49 @@
+empty
+empty
+declare hello
+cycle command 3
+call command
+empty
+empty
+call command
+empty
+empty
+cycle command 3
+move forward
+move forward
+move forward
+turn left
+call command
+empty
+empty
+call command
+empty
+empty
+cycle command 3
+move forward
+move forward
+move forward
+turn left
+call command
+empty
+empty
+call command
+empty
+empty
+cycle command 3
+move forward
+move forward
+move forward
+turn left
+10
+10
+- - - x - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - - - 
+- - - - - - - - O - 
+- - - - - - - - - - 
